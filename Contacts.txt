@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My Contact Details</title>
+  </head>
+  <body>
+    <h1>My Contact Details</h1>
+    <p>Sitio Looban 1, Brgy. San Lorenzo San Pablo City Laguna</p>
+    <p>09168786843</p>
+    <p>rdeyparine@gmail.com</p>
+<hr>
+  </body>
+</html>

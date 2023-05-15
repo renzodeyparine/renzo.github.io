@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My Hobbies</title>
+  </head>
+  <body>
+    <h1>My Hobbies</h1>
+    <ol>
+      <li>Watching Anime</li>
+      <li>Playing a musical instrument</li>
+      <li>Playing board games or video games</li>
+    </ol>
+  </body>
+</html>

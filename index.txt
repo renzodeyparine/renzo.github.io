@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>My Resume</title>
+</head>
+<body>
+  <header>
+    <h1>My Resume</h1>
+    <img src="profile-photo.jpg" alt="Profile Photo">
+  </header>
+  
+  <section>
+    <h2>Summary/Objective Statement</h2>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget massa non velit feugiat luctus.</p>
+<hr>
+  </section>
+  
+  <section>
+    <h2>Education</h2>
+    <ul>
+      <li>Bachelor of Science in Computer Science, XYZ University, 2015-2019</li>
+      <li>Master of Science in Information Technology, ABC University, 2019-2021</li>
+    </ul>
+<hr>
+  </section>
+  
+  <section>
+    <h2>Work Experience</h2>
+    <ul>
+      <li>Software Engineer, Company A, 2021-Present
+        <ul>
+          <li>Develop and maintain web applications using React and Node.js</li>
+          <li>Collaborate with cross-functional teams to ensure product quality and timely delivery</li>
+        </ul>
+      </li>
+      <li>Software Developer Intern, Company B, Summer 2020
+        <ul>
+          <li>Assisted in the development of a mobile application using Kotlin and Android Studio</li>
+          <li>Participated in team meetings and contributed ideas for improving the user experience</li>
+        </ul>
+      </li>
+    </ul>
+<hr>
+  </section>
+  
+  <section>
+    <h2>Skills</h2>
+    <ul>
+      <li>JavaScript</li>
+      <li>React</li>
+      <li>Node.js</li>
+      <li>Kotlin</li>
+      <li>Java</li>
+      <li>SQL</li>
+    </ul>
+<hr>
+  </section>
+  
+  <section>
+    <h2>Awards, Certifications, or Other Achievements</h2>
+    <ul>
+      <li>Google Certified Professional Cloud Architect</li>
+      <li>Oracle Certified Associate, Java SE 8 Programmer</li>
+      <li>Recipient of the ABC University Outstanding Graduate Award, 2021</li>
+    </ul>
+<hr>
+  </section>
+  
+  <nav>
+    <ul>
+      <li><a href="hobbies.html">Hobbies</a></li>
+      <li><a href="contact.html">Contact Details</a></li>
+    </ul>
+  </nav>
+  
+  <footer>
+    <p>&copy; Renzo Deyparine, 2023. All rights reserved.</p>
+  </footer>
+  
+</body>
+</html>
